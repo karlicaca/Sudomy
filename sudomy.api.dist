@@ -1,19 +1,19 @@
 # Shodan
 # URL :  http://developer.shodan.io
 # Example :
-#      - SHODAN_API="VGhpc1M0bXBsZWwKVGhmcGxlbAo"
+#      - SHODAN_API="K09VkSIHkNrPZuCzJD0xwHQpkQyvvcb4"
 
 SHODAN_API=""
 
 # Censys
 # URL : https://search.censys.io/register
 
-CENSYS_API=""
-CENSYS_SECRET=""
+CENSYS_API="20ec4173-84b9-4555-a3f8-2595103f4d37"
+CENSYS_SECRET="PaJEe3w8Gpfbc75wF73JWg9KknHo4nML"
 
 # Virustotal
 # URL : https://www.virustotal.com/gui/
-VIRUSTOTAL=""
+VIRUSTOTAL="f2db8f66c178028151969aee7e00094803669c159ce5dfcd4fb3b186a03809d6"
 
 # Binaryedge
 # URL : https://app.binaryedge.io/login
